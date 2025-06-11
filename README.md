@@ -63,7 +63,6 @@ const me = {
 </div>
 
 - 🛠️ Maintaining/developing [@softsky/configs](https://github.com/SoundOfTheSky/configs), [@softsky/utils](https://github.com/SoundOfTheSky/utils)
-- 🧑‍💻 Working on [my website](https://soft-sky.ru). Repos: [Frontend](https://github.com/SoundOfTheSky/sky-fe), [Backend](https://github.com/SoundOfTheSky/sky).
 - 🔭 Learning Docker & Kubernetes
 - 🇯🇵 Learning Japanese (Currently N4)
 - 🇺🇸🇬🇧 Incresing proficiency in English (Currently C1)
